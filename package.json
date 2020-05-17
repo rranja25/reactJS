@@ -1,0 +1,24 @@
+{
+  "name": "git-test-react",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git,node and react",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rranja25/reactJS.git"
+  },
+  "author": "Rajiv Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rranja25/reactJS/issues"
+  },
+  "homepage": "https://github.com/rranja25/reactJS#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
